@@ -27,7 +27,6 @@ function App() {
               <BlogDetails />
             </Route>
           </Switch>
-          <p className="note">N.B : i know this blog ugly as shit but i just need to learn react isall 😭 </p>
         </div>
 
       </div>
